@@ -1,9 +1,5 @@
 import java.util.List;
 
-/**
- * Perceptron de camada única com função de ativação degrau.
- * Só lógica do modelo: nenhuma leitura ou impressão.
- */
 public class Perceptron {
 
     /** Resumo do treinamento. */
